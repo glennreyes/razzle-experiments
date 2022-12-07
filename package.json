@@ -9,7 +9,7 @@
     "start:prod": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "raf": "^3.4.0",
     "razzle": "^0.8.4",
     "react": "^16.0.0",
